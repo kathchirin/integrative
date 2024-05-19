@@ -1,0 +1,73 @@
+C:\Users\CATHERINE MEDILO\AppData\Local\Temporary Projects\Water Billing System\bin\Debug\Water Billing System.exe.config
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\bin\Debug\Water Billing System.exe.config
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\bin\Debug\Water Billing System.exe
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\bin\Debug\Water Billing System.pdb
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\obj\Debug\Water Billing System.csprojResolveAssemblyReference.cache
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.logInForm.resources
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.MainMenu.resources
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.Properties.Resources.resources
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\obj\Debug\Water Billing System.csproj.GenerateResource.Cache
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\obj\Debug\Water Billing System.exe
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\obj\Debug\Water Billing System.pdb
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.BillingForm.resources
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.ClientsForm.resources
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.NewUserForm.resources
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.UsersForm.resources
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\bin\Debug\MySql.Data.dll
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.Viewbilling.resources
+C:\Users\CATHERINE MEDILO\Desktop\flash\bengkattt\PROJECTS\Water Billing System\Water Billing System\bin\Debug\Water Billing System.exe.config
+C:\Users\CATHERINE MEDILO\Desktop\flash\bengkattt\PROJECTS\Water Billing System\Water Billing System\obj\Debug\Water Billing System.exe
+C:\Users\CATHERINE MEDILO\Desktop\flash\bengkattt\PROJECTS\Water Billing System\Water Billing System\obj\Debug\Water Billing System.pdb
+C:\Users\CATHERINE MEDILO\Desktop\KALAMBU-AN NAKU\INFOTECH\2nd Year\PROJECTS\Water Billing System\Water Billing System\bin\Debug\Water Billing System.exe.config
+C:\Users\CATHERINE MEDILO\Desktop\KALAMBU-AN NAKU\INFOTECH\2nd Year\PROJECTS\Water Billing System\Water Billing System\obj\Debug\Water Billing System.exe
+C:\Users\CATHERINE MEDILO\Desktop\KALAMBU-AN NAKU\INFOTECH\2nd Year\PROJECTS\Water Billing System\Water Billing System\obj\Debug\Water Billing System.pdb
+C:\Users\CATHERINE MEDILO\Desktop\KALAMBU-AN NAKU\INFOTECH\2nd Year\PROJECTS\Water Billing System\Water Billing System\bin\Debug\Water Billing System.exe
+C:\Users\CATHERINE MEDILO\Desktop\KALAMBU-AN NAKU\INFOTECH\2nd Year\PROJECTS\Water Billing System\Water Billing System\bin\Debug\Water Billing System.pdb
+C:\Users\CATHERINE MEDILO\Desktop\KALAMBU-AN NAKU\INFOTECH\2nd Year\PROJECTS\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.BillingForm.resources
+C:\Users\CATHERINE MEDILO\Desktop\KALAMBU-AN NAKU\INFOTECH\2nd Year\PROJECTS\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.ClientsForm.resources
+C:\Users\CATHERINE MEDILO\Desktop\KALAMBU-AN NAKU\INFOTECH\2nd Year\PROJECTS\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.logInForm.resources
+C:\Users\CATHERINE MEDILO\Desktop\KALAMBU-AN NAKU\INFOTECH\2nd Year\PROJECTS\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.MainMenu.resources
+C:\Users\CATHERINE MEDILO\Desktop\KALAMBU-AN NAKU\INFOTECH\2nd Year\PROJECTS\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.NewUserForm.resources
+C:\Users\CATHERINE MEDILO\Desktop\KALAMBU-AN NAKU\INFOTECH\2nd Year\PROJECTS\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.Properties.Resources.resources
+C:\Users\CATHERINE MEDILO\Desktop\KALAMBU-AN NAKU\INFOTECH\2nd Year\PROJECTS\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.UsersForm.resources
+C:\Users\CATHERINE MEDILO\Desktop\KALAMBU-AN NAKU\INFOTECH\2nd Year\PROJECTS\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.Viewbilling.resources
+C:\Users\CATHERINE MEDILO\Desktop\KALAMBU-AN NAKU\INFOTECH\2nd Year\PROJECTS\Water Billing System\Water Billing System\obj\Debug\Water Billing System.csproj.GenerateResource.Cache
+C:\Users\Catherine Medilo\Desktop\KALAMBU-AN NAKU\INFOTECH\2nd Year\PROJECTS\Water Billing System\Water Billing System\obj\Debug\Water Billing System.csproj.AssemblyReference.cache
+C:\Users\Catherine Medilo\Desktop\KALAMBU-AN NAKU\INFOTECH\2nd Year\PROJECTS\Water Billing System\Water Billing System\obj\Debug\Water Billing System.csproj.CoreCompileInputs.cache
+C:\Users\Catherine Medilo\Desktop\KALAMBU-AN NAKU\INFOTECH\2nd Year\PROJECTS\Water Billing System\Water Billing System\obj\Debug\Water Bi.BB07F440.Up2Date
+C:\Users\Catherine Medilo\Desktop\KALAMBU-AN NAKU\INFOTECH\2nd Year\PROJECTS\Water Billing System\Water Billing System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Catherine Medilo\Desktop\KALAMBU-AN NAKU\INFOTECH\2nd Year\PROJECTS\Water Billing System\Water Billing System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Catherine Medilo\Desktop\Final_Project_Integrative\Water Billing System\Water Billing System\bin\Debug\Water Billing System.exe.config
+C:\Users\Catherine Medilo\Desktop\Final_Project_Integrative\Water Billing System\Water Billing System\bin\Debug\Water Billing System.exe
+C:\Users\Catherine Medilo\Desktop\Final_Project_Integrative\Water Billing System\Water Billing System\bin\Debug\Water Billing System.pdb
+C:\Users\Catherine Medilo\Desktop\Final_Project_Integrative\Water Billing System\Water Billing System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Catherine Medilo\Desktop\Final_Project_Integrative\Water Billing System\Water Billing System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Catherine Medilo\Desktop\Final_Project_Integrative\Water Billing System\Water Billing System\obj\Debug\Water Billing System.csproj.AssemblyReference.cache
+C:\Users\Catherine Medilo\Desktop\Final_Project_Integrative\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.BillingForm.resources
+C:\Users\Catherine Medilo\Desktop\Final_Project_Integrative\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.ClientsForm.resources
+C:\Users\Catherine Medilo\Desktop\Final_Project_Integrative\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.logInForm.resources
+C:\Users\Catherine Medilo\Desktop\Final_Project_Integrative\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.MainMenu.resources
+C:\Users\Catherine Medilo\Desktop\Final_Project_Integrative\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.Properties.Resources.resources
+C:\Users\Catherine Medilo\Desktop\Final_Project_Integrative\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.Viewbilling.resources
+C:\Users\Catherine Medilo\Desktop\Final_Project_Integrative\Water Billing System\Water Billing System\obj\Debug\Water Billing System.csproj.GenerateResource.cache
+C:\Users\Catherine Medilo\Desktop\Final_Project_Integrative\Water Billing System\Water Billing System\obj\Debug\Water Billing System.csproj.CoreCompileInputs.cache
+C:\Users\Catherine Medilo\Desktop\Final_Project_Integrative\Water Billing System\Water Billing System\obj\Debug\Water Bi.BB07F440.Up2Date
+C:\Users\Catherine Medilo\Desktop\Final_Project_Integrative\Water Billing System\Water Billing System\obj\Debug\Water Billing System.exe
+C:\Users\Catherine Medilo\Desktop\Final_Project_Integrative\Water Billing System\Water Billing System\obj\Debug\Water Billing System.pdb
+C:\xampp\htdocs\Final_Project_Integrative\Integrative\Final_Project\c#\Water Billing System\Water Billing System\bin\Debug\Water Billing System.exe.config
+C:\xampp\htdocs\Final_Project_Integrative\Integrative\Final_Project\c#\Water Billing System\Water Billing System\bin\Debug\Water Billing System.exe
+C:\xampp\htdocs\Final_Project_Integrative\Integrative\Final_Project\c#\Water Billing System\Water Billing System\bin\Debug\Water Billing System.pdb
+C:\xampp\htdocs\Final_Project_Integrative\Integrative\Final_Project\c#\Water Billing System\Water Billing System\bin\Debug\Newtonsoft.Json.dll
+C:\xampp\htdocs\Final_Project_Integrative\Integrative\Final_Project\c#\Water Billing System\Water Billing System\bin\Debug\Newtonsoft.Json.xml
+C:\xampp\htdocs\Final_Project_Integrative\Integrative\Final_Project\c#\Water Billing System\Water Billing System\obj\Debug\Water Billing System.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Final_Project_Integrative\Integrative\Final_Project\c#\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.BillingForm.resources
+C:\xampp\htdocs\Final_Project_Integrative\Integrative\Final_Project\c#\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.ClientsForm.resources
+C:\xampp\htdocs\Final_Project_Integrative\Integrative\Final_Project\c#\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.logInForm.resources
+C:\xampp\htdocs\Final_Project_Integrative\Integrative\Final_Project\c#\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.MainMenu.resources
+C:\xampp\htdocs\Final_Project_Integrative\Integrative\Final_Project\c#\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.Properties.Resources.resources
+C:\xampp\htdocs\Final_Project_Integrative\Integrative\Final_Project\c#\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.Viewbilling.resources
+C:\xampp\htdocs\Final_Project_Integrative\Integrative\Final_Project\c#\Water Billing System\Water Billing System\obj\Debug\Water Billing System.csproj.GenerateResource.cache
+C:\xampp\htdocs\Final_Project_Integrative\Integrative\Final_Project\c#\Water Billing System\Water Billing System\obj\Debug\Water Billing System.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Final_Project_Integrative\Integrative\Final_Project\c#\Water Billing System\Water Billing System\obj\Debug\Water Bi.BB07F440.Up2Date
+C:\xampp\htdocs\Final_Project_Integrative\Integrative\Final_Project\c#\Water Billing System\Water Billing System\obj\Debug\Water Billing System.exe
+C:\xampp\htdocs\Final_Project_Integrative\Integrative\Final_Project\c#\Water Billing System\Water Billing System\obj\Debug\Water Billing System.pdb

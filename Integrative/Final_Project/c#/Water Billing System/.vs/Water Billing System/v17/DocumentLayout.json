@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF84F48-ED5F-4985-8D81-DFD6E8D693EA}|Water Billing System\\Water Billing System.csproj|C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\water billing system\\billingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF84F48-ED5F-4985-8D81-DFD6E8D693EA}|Water Billing System\\Water Billing System.csproj|solutionrelative:water billing system\\billingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF84F48-ED5F-4985-8D81-DFD6E8D693EA}|Water Billing System\\Water Billing System.csproj|C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\water billing system\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF84F48-ED5F-4985-8D81-DFD6E8D693EA}|Water Billing System\\Water Billing System.csproj|solutionrelative:water billing system\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF84F48-ED5F-4985-8D81-DFD6E8D693EA}|Water Billing System\\Water Billing System.csproj|C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\water billing system\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AF84F48-ED5F-4985-8D81-DFD6E8D693EA}|Water Billing System\\Water Billing System.csproj|solutionrelative:water billing system\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF84F48-ED5F-4985-8D81-DFD6E8D693EA}|Water Billing System\\Water Billing System.csproj|C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\water billing system\\billingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AF84F48-ED5F-4985-8D81-DFD6E8D693EA}|Water Billing System\\Water Billing System.csproj|solutionrelative:water billing system\\billingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF84F48-ED5F-4985-8D81-DFD6E8D693EA}|Water Billing System\\Water Billing System.csproj|C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\water billing system\\clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AF84F48-ED5F-4985-8D81-DFD6E8D693EA}|Water Billing System\\Water Billing System.csproj|solutionrelative:water billing system\\clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF84F48-ED5F-4985-8D81-DFD6E8D693EA}|Water Billing System\\Water Billing System.csproj|C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\water billing system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AF84F48-ED5F-4985-8D81-DFD6E8D693EA}|Water Billing System\\Water Billing System.csproj|solutionrelative:water billing system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF84F48-ED5F-4985-8D81-DFD6E8D693EA}|Water Billing System\\Water Billing System.csproj|C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\water billing system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF84F48-ED5F-4985-8D81-DFD6E8D693EA}|Water Billing System\\Water Billing System.csproj|solutionrelative:water billing system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF84F48-ED5F-4985-8D81-DFD6E8D693EA}|Water Billing System\\Water Billing System.csproj|c:\\xampp\\htdocs\\final_project_integrative\\integrative\\final_project\\c#\\water billing system\\water billing system\\viewbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF84F48-ED5F-4985-8D81-DFD6E8D693EA}|Water Billing System\\Water Billing System.csproj|solutionrelative:water billing system\\viewbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF84F48-ED5F-4985-8D81-DFD6E8D693EA}|Water Billing System\\Water Billing System.csproj|C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\water billing system\\clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF84F48-ED5F-4985-8D81-DFD6E8D693EA}|Water Billing System\\Water Billing System.csproj|solutionrelative:water billing system\\clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF84F48-ED5F-4985-8D81-DFD6E8D693EA}|Water Billing System\\Water Billing System.csproj|C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\water billing system\\viewbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AF84F48-ED5F-4985-8D81-DFD6E8D693EA}|Water Billing System\\Water Billing System.csproj|solutionrelative:water billing system\\viewbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF84F48-ED5F-4985-8D81-DFD6E8D693EA}|Water Billing System\\Water Billing System.csproj|C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\water billing system\\billingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF84F48-ED5F-4985-8D81-DFD6E8D693EA}|Water Billing System\\Water Billing System.csproj|solutionrelative:water billing system\\billingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF84F48-ED5F-4985-8D81-DFD6E8D693EA}|Water Billing System\\Water Billing System.csproj|C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\water billing system\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF84F48-ED5F-4985-8D81-DFD6E8D693EA}|Water Billing System\\Water Billing System.csproj|solutionrelative:water billing system\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF84F48-ED5F-4985-8D81-DFD6E8D693EA}|Water Billing System\\Water Billing System.csproj|C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\water billing system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF84F48-ED5F-4985-8D81-DFD6E8D693EA}|Water Billing System\\Water Billing System.csproj|solutionrelative:water billing system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientsForm.cs [Design]",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\Water Billing System\\ClientsForm.cs",
+              "RelativeDocumentMoniker": "Water Billing System\\ClientsForm.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\Water Billing System\\ClientsForm.cs [Design]",
+              "RelativeToolTip": "Water Billing System\\ClientsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:44:02.94Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BillingForm.cs [Design]",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\Water Billing System\\BillingForm.cs",
+              "RelativeDocumentMoniker": "Water Billing System\\BillingForm.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\Water Billing System\\BillingForm.cs [Design]",
+              "RelativeToolTip": "Water Billing System\\BillingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:43:59.393Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.cs [Design]",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\Water Billing System\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Water Billing System\\MainMenu.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\Water Billing System\\MainMenu.cs [Design]",
+              "RelativeToolTip": "Water Billing System\\MainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:44:17.762Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BillingForm.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\Water Billing System\\BillingForm.cs",
+              "RelativeDocumentMoniker": "Water Billing System\\BillingForm.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\Water Billing System\\BillingForm.cs",
+              "RelativeToolTip": "Water Billing System\\BillingForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowBkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T02:33:51.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Viewbilling.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\Water Billing System\\Viewbilling.cs",
+              "RelativeDocumentMoniker": "Water Billing System\\Viewbilling.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\Water Billing System\\Viewbilling.cs",
+              "RelativeToolTip": "Water Billing System\\Viewbilling.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T06:14:13.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogIn.cs [Design]",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\Water Billing System\\LogIn.cs",
+              "RelativeDocumentMoniker": "Water Billing System\\LogIn.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\Water Billing System\\LogIn.cs [Design]",
+              "RelativeToolTip": "Water Billing System\\LogIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:44:16.115Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\Water Billing System\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Water Billing System\\MainMenu.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\Water Billing System\\MainMenu.cs",
+              "RelativeToolTip": "Water Billing System\\MainMenu.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwCcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T03:55:37.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\Water Billing System\\Program.cs",
+              "RelativeDocumentMoniker": "Water Billing System\\Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\Water Billing System\\Program.cs",
+              "RelativeToolTip": "Water Billing System\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:44:19.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Viewbilling.cs [Design]",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\Water Billing System\\Viewbilling.cs",
+              "RelativeDocumentMoniker": "Water Billing System\\Viewbilling.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\Water Billing System\\Viewbilling.cs [Design]",
+              "RelativeToolTip": "Water Billing System\\Viewbilling.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:44:25.063Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "database.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\Water Billing System\\database.cs",
+              "RelativeDocumentMoniker": "Water Billing System\\database.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\Water Billing System\\database.cs",
+              "RelativeToolTip": "Water Billing System\\database.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:44:04.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientsForm.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\Water Billing System\\ClientsForm.cs",
+              "RelativeDocumentMoniker": "Water Billing System\\ClientsForm.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\Water Billing System\\ClientsForm.cs",
+              "RelativeToolTip": "Water Billing System\\ClientsForm.cs",
+              "ViewState": "AQIAADQBAAAAAAAAAAAwwFQBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T01:41:12.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BillingForm.Designer.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\Water Billing System\\BillingForm.Designer.cs",
+              "RelativeDocumentMoniker": "Water Billing System\\BillingForm.Designer.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\Water Billing System\\BillingForm.Designer.cs",
+              "RelativeToolTip": "Water Billing System\\BillingForm.Designer.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAAAQwMIAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:43:51.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LogIn.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\Water Billing System\\LogIn.cs",
+              "RelativeDocumentMoniker": "Water Billing System\\LogIn.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Final_Project_Integrative\\Integrative\\Final_Project\\c#\\Water Billing System\\Water Billing System\\LogIn.cs",
+              "RelativeToolTip": "Water Billing System\\LogIn.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAA1wBcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T06:13:04.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
